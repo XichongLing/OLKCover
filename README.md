@@ -10,5 +10,5 @@ The colormap.m file produces a colormap which is visually similar to that in the
 
 
 An example:
-![Image text](https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/shinji.jpg)
-![Image text](https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/OLKshinji.png)
+<img src="https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/shinji.jpg" width="375"/>
+<img src="https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/OLKshinji.png" width = "375"/>
