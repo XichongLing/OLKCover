@@ -1,8 +1,8 @@
 # OLKCover
 
-终目前在bgm rank50进行回归。
-这个程序可以生成一个one last kiss风格的图片，用于低分辨率的头像效果还行。
-「さようなら、全てのエヴァンゲリオン」
+终目前在bgm rank50进行回归。  
+这个程序可以生成一个one last kiss风格的图片，用于低分辨率的头像效果还行。  
+「さようなら、全てのエヴァンゲリオン」  
 
 The theme OST "One Last Kiss" by Utada Hikaru is fanscinating, and so is its cover. The two matlab files try to generate a One Last Kiss style picture from a given image, which is a tiny commemoration to the end of this lengendary series, and to many's youth as well.
 
