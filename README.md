@@ -4,4 +4,5 @@ The theme OST "One Last Kiss" by Utada Hikaru is fanscinating, and so is its cov
 
 The colormap.m file produces a colormap which is visually similar to that in the origin cover. And OLKCover.m employes Canny Edge detector to extract edges in the input file, later fill in the edges with colors in our defined colormap.
 
-Here is the output ![Image text](https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/OLKshinji.png)
+Here is the output 
+![Image text](https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/OLKshinji.png)
