@@ -11,8 +11,8 @@ The colormap.m file produces a colormap which is visually similar to that in the
 
 An example:
 <div align=center>
-<img src="https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/asuka.jpg" width="375" height = "375"/>
+<img src="https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/asuka.jpg" width="400" height = "375"/>
 </div>
 <div align = center>
-<img src="https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/OLKasuka.png" width = "375" height = "375"/>
+<img src="https://raw.githubusercontent.com/XichongLing/OLKCover/master/img/OLKasuka.png" width = "400" height = "375"/>
 </div>
