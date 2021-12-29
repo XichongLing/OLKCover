@@ -7,12 +7,6 @@ Iedge = edge(Igray,'Canny');
 % colormap(jet(1000));
 
 
-% % define a colormap similar to origin picture
-% colorR = interp1(cPosition,cPoint(:,1),1:64,'linear','extrap');
-% colorG = interp1(cPosition,cPoint(:,2),1:64,'linear','extrap');
-% colorB = interp1(cPosition,cPoint(:,3),1:64,'linear','extrap');
-% colorM = [colorR',colorG',colorB'];
-% colorM = round(colorM * 10^4)/10^4;
 
 % Gradient color filling
 map = colorM;
